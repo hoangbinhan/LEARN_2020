@@ -1,0 +1,3 @@
+binary search: chia đôi mảng đã sắp xếp sẵn để tìm kiếm
+
+interpolationSearch:  mid = low + (high-low)(x-a[low])/(a[high]-a[low])
